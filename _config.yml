@@ -2,5 +2,17 @@ title: Welcome to my portfolio!
 theme: jekyll-theme-cayman
 # This is an <h1> header, which is the largest ## This is an <h2> header ###### This is an <h6> header, which is the smallest
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
-[GitHub](http://github.com) 
+[GitHub](http://github.com)
+:heart:
+:+1:
+1. Item 1
+2. Item 2
+3. Item 3
+
+* Item 1
+* Item 2
+  * Item 2a
+  * Item 2b
+ 
+ 
 
