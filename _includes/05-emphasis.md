@@ -1,10 +1,10 @@
-*This text will be italic*
+*This BOOK IS AMAZING*
 
-_This will also be italic_
+_This BOOK IS AMAZING_
 
-**This text will be bold**
+**This BOOK IS AMAZING**
 
-__This will also be bold__
+__This BOOK IS AMAZING__
 
 _You **can** combine them_
  
