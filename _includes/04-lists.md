@@ -1,10 +1,10 @@
-:heart:
-1. Item 1
-2. Item 2
-3. Item 3
 
-* Item 1
-* Item 2
-  * Item 2a
-  * Item 2b
+1. Never
+2. Give
+3. Up
+
+* failures 
+* are
+  * part of 
+  * life
  
